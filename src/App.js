@@ -27,7 +27,7 @@ function App() {
             <i className="fab fa-telegram"></i> Telegram
           </a>
           <a href="tel:+9647763759458">
-            <i className="fas fa-phone"></i> +964 776 375 9458
+            <i className="fas fa-phone"></i> http://wa.me/9647763759458
           </a>
         </div>
       </main>
