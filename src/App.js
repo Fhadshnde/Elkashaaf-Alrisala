@@ -26,9 +26,10 @@ function App() {
           <a href="https://t.me/lkashaafalrisala" target="_blank" rel="noopener noreferrer">
             <i className="fab fa-telegram"></i> Telegram
           </a>
-          <a href="tel:+9647763759458">
-            <i className="fas fa-phone"></i> http://wa.me/9647763759458
-          </a>
+          <a href="http://wa.me/9647763759458" target="_blank" rel="noopener noreferrer">
+  <i className="fab fa-whatsapp"></i> Whatsapp
+</a>
+
         </div>
       </main>
       <div className="image-footer">
